@@ -1,2 +1,2 @@
 # sorting_algorithms
-ALX Sorting Algorithms and Big O
+ALX Sorting Algorithms and Big O Notation
